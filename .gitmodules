@@ -1,0 +1,3 @@
+[submodule "subprojects/unittesting"]
+	path = subprojects/unittesting
+	url = https://lcorneliussen@code.google.com/a/eclipselabs.org/p/xtext-utils.unittesting/
